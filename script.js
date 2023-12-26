@@ -16,7 +16,7 @@ let images = [
 "https://media.tenor.com/8w3F9LT3PIsAAAAM/scaramouche-wanderer.gif",
 "https://media.tenor.com/epv8LcAMOlQAAAAe/cat-scaramouche.png",
 "https://media.tenor.com/YkLGwi0Am70AAAAj/scaramouche-wanderer.gif",
-"https://ih1.redbubble.net/image.4594714067.6503/flat,750x,075,f-pad,750x1000,f8f8f8.jpg"
+"https://ih1.redbubble.net/image.4594714067.6503/flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
 "https://64.media.tumblr.com/06d067c2e479a5771ca7962b7a2bf7a2/c0e58598071c584b-7c/s1280x1920/437609c1c3bdbd0cfd5572cca8ab2830b1828368.png",
 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-25VLkK2Dfb2n8YiYwXV-3n2O4Sa3kqNqA&usqp=CAU",
 "https://i.pinimg.com/736x/b7/9f/fc/b79ffce3621a4139c1c6d1cb48456ad4.jpg"
